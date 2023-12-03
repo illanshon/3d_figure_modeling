@@ -4,6 +4,7 @@
 
 ![Image alt](https://github.com/illanshon/3d_figure_modeling/blob/main/3.png)
 
+Улучшенное разбиение:
 ![Image alt](https://github.com/illanshon/3d_figure_modeling/blob/main/2.png)
 
 ![Image alt](https://github.com/illanshon/3d_figure_modeling/blob/main/1.png)
